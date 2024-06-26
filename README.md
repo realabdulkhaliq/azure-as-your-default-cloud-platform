@@ -7,7 +7,7 @@ Going forward we will be using Azure as our default provider for teaching and de
 
 Get a free Azure Account now:
 - https://azure.microsoft.com/en-us/free
-  Note: Use GitHub Account to start an Azure free trial
+Note: Use GitHub Account to start an Azure free trial
 
 
 Azure Container Apps (We will Start from this service using Dapr and Keda)
